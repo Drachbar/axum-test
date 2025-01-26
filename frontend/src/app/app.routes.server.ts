@@ -2,7 +2,7 @@ import {RenderMode, ServerRoute} from '@angular/ssr';
 
 export const serverRoutes: ServerRoute[] = [
   {
-    path: 'hej',
+    path: 'backend-fetch-test',
     renderMode: RenderMode.Server,
   },
   {
